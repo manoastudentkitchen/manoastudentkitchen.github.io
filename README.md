@@ -1,1 +1,1 @@
-This repo contains the documentation for Manoa Student Kitchen. See index.md for the source, or go to https://manoastudentkitchen.github.io.
+This repo contains the documentation for Manoa Student Kitchen. See [index.md](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/index.md) for the source, or go to https://manoastudentkitchen.github.io.
