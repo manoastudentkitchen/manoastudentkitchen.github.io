@@ -15,7 +15,7 @@ It also will include features such as:
 
 Manoa Student Kitchen is based on the project [Toaster Oven Lovin](http://courses.ics.hawaii.edu/ics314s17/morea/final-project/reading-project-toaster-oven-lovin.html)
 
-![alt text](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplehome.png?raw=true "Home page")
+![Home page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplehome.png?raw=true "Home page")
 
 
 # Development History
