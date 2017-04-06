@@ -14,3 +14,7 @@ It also will include features such as:
 * Estimate of how long it takes to make.
 
 Manoa Student Kitchen is based on the project [Toaster Oven Lovin](http://courses.ics.hawaii.edu/ics314s17/morea/final-project/reading-project-toaster-oven-lovin.html)
+
+# Development History
+
+[Milestone 1: Mockup & Deployment](https://github.com/manoastudentkitchen/m1)
