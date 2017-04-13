@@ -31,7 +31,17 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Link to current app deployment: [Deployment](http://manoastudentkitchen.meteorapp.com/)
 
-Link to M1 milestone: [M1](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/1)
+M1 was implemented as the [MSK Milestone 1](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/1):
+
+![M1](https://manoastudentkitchen.github.io/images/MSK%20M1.png)
+
+Milestone 1 consisted of eleven issues, and progress was managed via the [MSK GitHub Project M1](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/1):
+
+![M1 Project](https://manoastudentkitchen.github.io/images/MSK%20M1%20Project.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![M1 Network Graph](https://manoastudentkitchen.github.io/images/MSK%20M1%20Network%20Graph.png)
 
 ### Landing Page
 ![Landing page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplehome.png?raw=true "Home page")
