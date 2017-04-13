@@ -37,7 +37,7 @@ Link to M1 milestone: (https://github.com/manoastudentkitchen/manoastudentkitche
 ![Landing page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplehome.png?raw=true "Home page")
 
 ### Home Page
-![Home page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplelanding.png?raw=true)
+![Home page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/homepage.png?raw=true)
 
 ### Profile Page
 ![Profile Page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/profile.png?raw=true)
