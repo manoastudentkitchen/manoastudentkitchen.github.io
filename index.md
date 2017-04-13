@@ -29,9 +29,9 @@ This milestone was started on April 5, 2017 and ended on April 13, 2017.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages.
 
-Link to current app deployment: (http://manoastudentkitchen.meteorapp.com/)
+Link to current app deployment: [Deployment](http://manoastudentkitchen.meteorapp.com/)
 
-Link to M1 milestone: (https://github.com/manoastudentkitchen/manoastudentkitchen/projects/1)
+Link to M1 milestone: [M1](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/1)
 
 ### Landing Page
 ![Landing page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplehome.png?raw=true "Home page")
@@ -53,4 +53,4 @@ Link to M1 milestone: (https://github.com/manoastudentkitchen/manoastudentkitche
 
 ## Milestone 2: Data model development
 
-Link to M2 milestone: (https://github.com/manoastudentkitchen/manoastudentkitchen/projects/2)
+Link to M2 milestone: [M2](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/2)
