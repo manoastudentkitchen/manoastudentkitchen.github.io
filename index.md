@@ -28,10 +28,12 @@ The development process for BowFolios conformed to Issue Driven Project Manageme
 
 The following sections document the development history of Manoa Student Kitchen.
 
-[Milestone 1: Mockup & Deployment]
+## Milestone 1: Mockup development
 
 This milestone was started on April 5, 2017 and ended on April 13, 2017.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages.
 
 (https://github.com/manoastudentkitchen/m1)
+
+## Milestone 2: Data model development
