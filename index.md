@@ -24,4 +24,14 @@ Manoa Student Kitchen is based on the project [Toaster Oven Lovin](http://course
 
 # Development History
 
-[Milestone 1: Mockup & Deployment](https://github.com/manoastudentkitchen/m1)
+The development process for BowFolios conformed to Issue Driven Project Management practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.
+
+The following sections document the development history of Manoa Student Kitchen.
+
+[Milestone 1: Mockup & Deployment]
+
+This milestone was started on April 5, 2017 and ended on April 13, 2017.
+
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages.
+
+(https://github.com/manoastudentkitchen/m1)
