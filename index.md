@@ -17,11 +17,6 @@ It also will include information about the recipes
 
 Manoa Student Kitchen is based on the project [Toaster Oven Lovin](http://courses.ics.hawaii.edu/ics314s17/morea/final-project/reading-project-toaster-oven-lovin.html)
 
-# WIP Mockups
-
-![Landing page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplehome.png?raw=true "Home page")
-![Home page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplelanding.png?raw=true)
-
 # Development History
 
 The development process for BowFolios conformed to Issue Driven Project Management practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.
@@ -37,6 +32,12 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 Link to current app deployment: (http://manoastudentkitchen.meteorapp.com/)
 
 Link to M1 milestone: (https://github.com/manoastudentkitchen/manoastudentkitchen/projects/1)
+
+### Landing Page
+![Landing page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplehome.png?raw=true "Home page")
+
+### Home Page
+![Home page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplelanding.png?raw=true)
 
 ### Profile Page
 ![Profile Page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/profile.png?raw=true)
