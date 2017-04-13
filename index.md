@@ -19,8 +19,8 @@ Manoa Student Kitchen is based on the project [Toaster Oven Lovin](http://course
 
 # WIP Mockups
 
-![Home page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplehome.png?raw=true "Home page")
-![Landing page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplelanding.png?raw=true)
+![Landing page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplehome.png?raw=true "Home page")
+![Home page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplelanding.png?raw=true)
 
 # Development History
 
@@ -34,6 +34,22 @@ This milestone was started on April 5, 2017 and ended on April 13, 2017.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages.
 
-(https://github.com/manoastudentkitchen/m1)
+Link to current app deployment: (http://manoastudentkitchen.meteorapp.com/)
+
+Link to M1 milestone: (https://github.com/manoastudentkitchen/manoastudentkitchen/projects/1)
+
+### Profile Page
+![Profile Page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/profile.png?raw=true)
+
+### Edit Profile
+![Edit Profile](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/profileedit.png?raw=true)
+
+### Recipe Page
+![Recipe Page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/recipe.png?raw=true)
+
+### Admin Page
+![Admin Page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/admin.png?raw=true)
 
 ## Milestone 2: Data model development
+
+Link to M2 milestone: (https://github.com/manoastudentkitchen/manoastudentkitchen/projects/2)
