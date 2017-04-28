@@ -39,6 +39,66 @@ The recipe page displays information about each recipe.
 
 Inspired by [Steam tags](http://store.steampowered.com/tag/), we're foregoing the traditional categorization system and instead, implementing a system that allows users to define their own tags and upvote tags made by others. This allows for much more flexible and dynamic labelling for each recipe. 
 
+# Developer Guide
+## How to Install
+First clone the repository from [Github](https://github.com/manoastudentkitchen/manoastudentkitchen). Then cd into the app directory and type:
+```
+$ meteor npm install
+```
+This will install the meteor dependancies.
+
+Next, you need to create the settings.json file (for server install), as well as a settings.development.json file (for local install) in the application's config folder.
+
+The contents of the settings.development.json file should look like this:
+```
+{
+  "cas": {
+    "baseUrl": "https://cas-test.its.hawaii.edu/cas/",
+    "autoClose": true
+  },
+  "public": {
+    "cas": {
+      "loginUrl": "https://cas-test.its.hawaii.edu/cas/login",
+      "serviceParam": "service",
+      "popupWidth": 810,
+      "popupHeight": 610
+    },
+    "initialDatabaseFileName": "database/initial-collection-data.json"
+  }
+}
+
+```
+The contents of the settings.json file should look like this (requires setting up a mongodb and galaxy account):
+```
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": [[The Mongo DB URL]]
+    }
+  },
+  "cas": {
+    "baseUrl": "https://cas-test.its.hawaii.edu/cas/",
+    "autoClose": true
+  },
+  "public": {
+    "cas": {
+      "loginUrl": "https://cas-test.its.hawaii.edu/cas/login",
+      "serviceParam": "service",
+      "popupWidth": 810,
+      "popupHeight": 610
+    },
+    "initialDatabaseFileName": "database/initial-collection-data.json"
+  }
+}
+
+```
+
+Next, to run the app locally, type:
+```
+$ meteor npm run startlocal
+```
+The application should now be running at localhost:3000.
+
 
 # Development History
 
