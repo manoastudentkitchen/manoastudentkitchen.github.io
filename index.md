@@ -1,21 +1,42 @@
 # About Manoa Student Kitchen
 
-Manoa Student Kitchen will be an application that provides students at UH Manoa to share and browse any recipe that:
+Manoa Student Kitchen is an application that provides students at UH Manoa to share and browse any recipe that:
 
 * Can be made using minimal kitchen facilities (at a minimum, a toaster oven).
 * Can be made out of ingredients that are available within walking distance of UH.
 * Suits local taste sensibilities.
 
-It also will include information about the recipes
+It provides a variety of information about the recipes, including:
 
-* Filters by dietary restriction (gluten-free, vegan, etc).
-* Estimated cost per serving.
-* Estimated number of servings per recipe.
-* Estimate of how long it takes to make.
-* Where each ingredient can be purchased
-* Dynamic, user-based tags for each recipe
+* Instructions for the recipe
+* Total cost, cost per serving & number of servings
+* How long it takes to make.
+* Where and for how much each ingredient can be purchased
+* Dynamic, user-based tags with a scoring system
 
 Manoa Student Kitchen is based on the project [Toaster Oven Lovin](http://courses.ics.hawaii.edu/ics314s17/morea/final-project/reading-project-toaster-oven-lovin.html)
+
+# Walkthrough
+![M2_Landing](manoastudentkitchen.github.io/images/M2_Landing.png)
+
+The landing page of the website prompts a user to log in using their UH credentials.
+
+![M2_Home](manoastudentkitchen.github.io/images/M2_Home.png)
+
+After logging in, the user is shown different ways to navigate. The user can search using titles, tags or other information, or browse for recipes with tags. 
+
+![M2_Recipe](manoastudentkitchen.github.io/images/M2_Landing.png)
+
+The recipe page displays information about each recipe.
+
+# Unique features
+
+## User-Defined Tags
+
+![M2_Tags](manoastudentkitchen.github.io/images/M2_Tags.png)
+
+Inspired by [Steam tags](http://store.steampowered.com/tag/), we're foregoing the traditional categorization system and instead, implementing a system that allows users to define their own tags and upvote tags made by others. This allows for much more flexible and dynamic labelling for each recipe. 
+
 
 # Development History
 
