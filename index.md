@@ -16,6 +16,8 @@ It provides a variety of information about the recipes, including:
 
 Manoa Student Kitchen is based on the project [Toaster Oven Lovin](http://courses.ics.hawaii.edu/ics314s17/morea/final-project/reading-project-toaster-oven-lovin.html)
 
+The current app deployment can be seen [here](http://manoastudentkitchen.meteorapp.com/)
+
 # Walkthrough
 ![M2_Landing](manoastudentkitchen.github.io/images/M2_Landing.png)
 
@@ -58,9 +60,7 @@ Mockups for the landing, profile, edit profile, recipe, admin and home pages wer
 <img width="200px" src="images/admin.png"/>
 <img width="200px" src="images/homepage.png"/>
 
-Link to current app deployment: [Deployment](http://manoastudentkitchen.meteorapp.com/)
-
-M1 was implemented as the [MSK Milestone 1](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/1):
+M1 was implemented as the [MSK Milestone 1](https://github.com/manoastudentkitchen/manoastudentkitchen/milestone/1?closed=1):
 
 ![M1](https://manoastudentkitchen.github.io/images/MSK%20M1.png)
 
@@ -74,4 +74,19 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ## Milestone 2: Data model development
 
-Link to M2 milestone: [M2](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/2)
+The goals for Milestone 2 were to revamp the visuals of each page, set up the main MongoDB Collections and connect those Collections to the HTML frontend.
+
+Extending from the [Bowfolios BaseCollection class], three javascript classes were implemented: RecipeCollection, TagCollection and ProfileCollection, each providing the necessary data structures for recipes, tags and profiles, respectively.
+
+M2 was implemented as the [MSK Milestone 2](https://github.com/manoastudentkitchen/manoastudentkitchen/milestone/2?closed=1):
+
+![M2](https://manoastudentkitchen.github.io/images/MSK%20M2.png)
+
+Milestone 2 consisted of ten issues, and progress was managed via the [MSK GitHub Project M2](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/2):
+
+![M1 Project](https://manoastudentkitchen.github.io/images/MSK%20M2%20Project.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![M2 Network Graph](https://manoastudentkitchen.github.io/images/MSK%20M2%20Network%20Graph.png)
+
