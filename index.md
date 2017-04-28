@@ -25,7 +25,7 @@ The landing page of the website prompts a user to log in using their UH credenti
 
 After logging in, the user is shown different ways to navigate. The user can search using titles, tags or other information, or browse for recipes with tags. 
 
-![M2_Recipe](manoastudentkitchen.github.io/images/M2_Landing.png)
+![M2_Recipe](manoastudentkitchen.github.io/images/M2_Recipe.png)
 
 The recipe page displays information about each recipe.
 
