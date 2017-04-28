@@ -18,6 +18,8 @@ Manoa Student Kitchen is based on the project [Toaster Oven Lovin](http://course
 
 The current app deployment can be seen [here](http://manoastudentkitchen.meteorapp.com/)
 
+Link to our github organization [here](https://github.com/manoastudentkitchen)
+
 # Walkthrough
 ![M2_Landing](manoastudentkitchen.github.io/images/M2_Landing.png)
 
