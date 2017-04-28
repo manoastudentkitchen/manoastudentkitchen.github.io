@@ -84,7 +84,7 @@ M2 was implemented as the [MSK Milestone 2](https://github.com/manoastudentkitch
 
 Milestone 2 consisted of ten issues, and progress was managed via the [MSK GitHub Project M2](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/2):
 
-![M1 Project](https://manoastudentkitchen.github.io/images/MSK%20M2%20Project.png)
+![M1 Project](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2_Issues.png?raw=true)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
