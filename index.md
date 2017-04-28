@@ -50,6 +50,13 @@ This milestone was started on April 5, 2017 and ended on April 13, 2017.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages.
 
+<img width="200px" src="images/samplehome.png"/>
+<img width="200px" src="images/homepage.png"/>
+<img width="200px" src="images/profile.png"/>
+<img width="200px" src="images/profileedit.png"/>
+<img width="200px" src="images/recipe.png"/>
+<img width="200px" src="images/admin.png"/>
+
 Link to current app deployment: [Deployment](http://manoastudentkitchen.meteorapp.com/)
 
 M1 was implemented as the [MSK Milestone 1](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/1):
@@ -63,24 +70,6 @@ Milestone 1 consisted of eleven issues, and progress was managed via the [MSK Gi
 Each issue was implemented in its own branch, and merged into master when completed:
 
 ![M1 Network Graph](https://manoastudentkitchen.github.io/images/MSK%20M1%20Network%20Graph.png)
-
-### Landing Page
-![Landing page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/samplehome.png?raw=true "Home page")
-
-### Home Page
-![Home page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/homepage.png?raw=true)
-
-### Profile Page
-![Profile Page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/profile.png?raw=true)
-
-### Edit Profile
-![Edit Profile](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/profileedit.png?raw=true)
-
-### Recipe Page
-![Recipe Page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/recipe.png?raw=true)
-
-### Admin Page
-![Admin Page](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/admin.png?raw=true)
 
 ## Milestone 2: Data model development
 
