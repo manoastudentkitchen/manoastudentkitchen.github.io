@@ -50,12 +50,13 @@ This milestone was started on April 5, 2017 and ended on April 13, 2017.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages.
 
-<img width="200px" src="images/samplehome.png"/>
+Mockups for the home, profile, edit profile, recipe, admin and landing pages were implemented during M1:
+
 <img width="200px" src="images/homepage.png"/>
 <img width="200px" src="images/profile.png"/>
-<img width="200px" src="images/profileedit.png"/>
 <img width="200px" src="images/recipe.png"/>
 <img width="200px" src="images/admin.png"/>
+<img width="200px" src="images/samplehome.png"/>
 
 Link to current app deployment: [Deployment](http://manoastudentkitchen.meteorapp.com/)
 
