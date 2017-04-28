@@ -80,7 +80,7 @@ Extending from the [Bowfolios](https://bowfolios.github.io/) BaseCollection clas
 
 M2 was implemented as the [MSK Milestone 2](https://github.com/manoastudentkitchen/manoastudentkitchen/milestone/2?closed=1):
 
-![M2](https://manoastudentkitchen.github.io/images/MSK%20M2.png)
+![M2](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2.png?raw=true)
 
 Milestone 2 consisted of ten issues, and progress was managed via the [MSK GitHub Project M2](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/2):
 
@@ -88,5 +88,6 @@ Milestone 2 consisted of ten issues, and progress was managed via the [MSK GitHu
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
-![M2 Network Graph](https://manoastudentkitchen.github.io/images/MSK%20M2%20Network%20Graph.png)
+![M2 Network Graph](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2_GraphA.png?raw=true)
+![M2 Network Graph](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2_GraphB.png?raw=true)
 
