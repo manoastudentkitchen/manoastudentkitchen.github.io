@@ -21,7 +21,7 @@ Manoa Student Kitchen is based on the project [Toaster Oven Lovin](http://course
 
 The landing page of the website prompts a user to log in using their UH credentials.
 
-![M2_Home](manoastudentkitchen.github.io/images/M2_Home.png)
+![M2_Home](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/HomePage_M2.png?raw=true)
 
 After logging in, the user is shown different ways to navigate. The user can search using titles, tags or other information, or browse for recipes with tags. 
 
