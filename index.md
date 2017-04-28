@@ -76,7 +76,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 The goals for Milestone 2 were to revamp the visuals of each page, set up the main MongoDB Collections and connect those Collections to the HTML frontend.
 
-Extending from the [Bowfolios BaseCollection class], three javascript classes were implemented: RecipeCollection, TagCollection and ProfileCollection, each providing the necessary data structures for recipes, tags and profiles, respectively.
+Extending from the [Bowfolios](https://bowfolios.github.io/) BaseCollection class, three javascript classes were implemented: RecipeCollection, TagCollection and ProfileCollection, each providing the necessary data structures for recipes, tags and profiles, respectively.
 
 M2 was implemented as the [MSK Milestone 2](https://github.com/manoastudentkitchen/manoastudentkitchen/milestone/2?closed=1):
 
