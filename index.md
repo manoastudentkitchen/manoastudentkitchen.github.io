@@ -25,14 +25,18 @@ Link to our github organization [here](https://github.com/manoastudentkitchen)
 
 The landing page of the website prompts a user to log in using their UH credentials.
 
-![M2_Home](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/HomePage_M2.png?raw=true)
+![M3_Home_1](manoastudentkitchen.github.io/images/m3/home_page_1.png)
+![M3_Home_2](manoastudentkitchen.github.io/images/m3/home_page_2.png)
 
 After logging in, the user is shown different ways to navigate. The user can search for tags or recipe titles using the search bar, or select one of the tags or recipes on the page.
 
-![M2_Recipe](manoastudentkitchen.github.io/images/M2_Recipe.png)
+![M3_View_Recipe_1](manoastudentkitchen.github.io/images/m3/view_recipe_1.png)
+![M3_View_Recipe_2](manoastudentkitchen.github.io/images/m3/view_recipe_1.png)
 
 The recipe page displays information about each recipe.
 
+
+![M3_Profile](manoastudentkitchen.github.io/images/m3/profile_page.png)
 The profile page displays information about each user.
 
 The admin page allows admins easy access to useful functions, as well as the entire database.
