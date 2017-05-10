@@ -20,26 +20,26 @@ The current app deployment can be seen [here](http://manoastudentkitchen.meteora
 
 Link to our github organization [here](https://github.com/manoastudentkitchen)
 
-# Walkthrough
+# Guided Tour
 ![M2_Landing](manoastudentkitchen.github.io/images/M2_Landing.png)
 
 The landing page of the website prompts a user to log in using their UH credentials.
 
 ![M2_Home](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/HomePage_M2.png?raw=true)
 
-After logging in, the user is shown different ways to navigate. The user can search using titles, tags or other information, or browse for recipes with tags. 
+After logging in, the user is shown different ways to navigate. The user can search for tags or recipe titles using the search bar, or select one of the tags or recipes on the page.
 
 ![M2_Recipe](manoastudentkitchen.github.io/images/M2_Recipe.png)
 
 The recipe page displays information about each recipe.
 
-# Unique features
+The profile page displays information about each user.
 
-## User-Defined Tags
+The admin page allows admins easy access to useful functions, as well as the entire database.
 
 ![M2_Tags](manoastudentkitchen.github.io/images/M2_Tags.png)
 
-Inspired by [Steam tags](http://store.steampowered.com/tag/), we're foregoing the traditional categorization system and instead, implementing a system that allows users to define their own tags and upvote tags made by others. This allows for much more flexible and dynamic labelling for each recipe. 
+Inspired by [Steam tags](http://store.steampowered.com/tag/), we forewent the traditional categorization system and instead, implemented a system that allows users to define their own tags and upvote tags made by others. This allows for much more flexible and dynamic labelling for each recipe. 
 
 # Developer Guide
 ## How to Install
@@ -102,6 +102,8 @@ $ meteor npm run startlocal
 The application should now be running at localhost:3000.
 
 
+# Initial User Study
+
 # Development History
 
 The development process for BowFolios conformed to Issue Driven Project Management practices. In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.
@@ -146,10 +148,27 @@ M2 was implemented as the [MSK Milestone 2](https://github.com/manoastudentkitch
 
 Milestone 2 consisted of ten issues, and progress was managed via the [MSK GitHub Project M2](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/2):
 
-![M1 Project](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2_Issues.png?raw=true)
+![M2 Project](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2_Issues.png?raw=true)
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
 ![M2 Network Graph](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2_GraphA.png?raw=true)
 ![M2 Network Graph](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2_GraphB.png?raw=true)
+
+## Milestone 3: Connect UI to data model
+
+The goals for Milestone 3 were to connect the front-end of the app to the back-end, adding the core functionality of each page, and new ones.
+
+M3 was implemented as the [MSK Milestone 3](https://github.com/manoastudentkitchen/manoastudentkitchen/milestone/3?closed=1):
+
+![M3](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M3.png?raw=true)
+
+Milestone 3 consisted of fifteen issues, and progress was managed via the [MSK GitHub Project M3](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/3):
+
+![M3 Project](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M3_Issues.png?raw=true)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![M3 Network Graph](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2_GraphA.png?raw=true)
+![M3 Network Graph](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2_GraphB.png?raw=true)
 
