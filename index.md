@@ -47,7 +47,7 @@ Inspired by [Steam tags](http://store.steampowered.com/tag/), we forewent the tr
 
 # Initial User Study
 Users were asked to test out the application and fill in a google survey with their impressions of the app. The survey can be found [here](https://docs.google.com/a/hawaii.edu/forms/d/e/1FAIpQLSdcpuvIx5TKOppaZzYMD1fvZa9N7vGinH01oyP7V2GIjKyA2A/viewform).
-Overall the response to the app was positive. One user, a senior English major liked how it was easy to submit and edit recipes. Another, a Junior ACM major, liked the tag feature, but also wished there was more inter-user interaction in the form of favorites and bookmarks. 
+Overall the response to the app was positive. One user, a senior English major liked how it was easy to submit and edit recipes. Another, a Junior ACM major, liked the tag feature, but also wished there was more inter-user interaction in the form of favorites and bookmarks. A third, a Junior Engineering major, liked how you could see where to buy each ingredient. The fourth and fifth testers, both chem majors, appreciated the search feature and thought that it would be a useful app especially since they don't get to cook regularly because it often takes too much time to do so.
 
 
 # Developer Guide
