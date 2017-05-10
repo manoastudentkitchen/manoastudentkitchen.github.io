@@ -178,6 +178,6 @@ Milestone 3 consisted of fifteen issues, and progress was managed via the [MSK G
 
 Each issue was implemented in its own branch, and merged into master when completed:
 
-![M3 Network Graph](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2_GraphA.png?raw=true)
-![M3 Network Graph](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M2_GraphB.png?raw=true)
+![M3 Network Graph](manoastudentkitchen.github.io/images/m3/M3_Network_Graph.png)
+![M3 Network Graph](manoastudentkitchen.github.io/images/m3/M3_Project_Page.png)
 
