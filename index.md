@@ -173,11 +173,9 @@ M3 was implemented as the [MSK Milestone 3](https://github.com/manoastudentkitch
 ![M3](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M3.png?raw=true)
 
 Milestone 3 consisted of fifteen issues, and progress was managed via the [MSK GitHub Project M3](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/3):
-
-![M3 Project](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M3_Issues.png?raw=true)
+![M3 Project Page](manoastudentkitchen.github.io/images/m3/M3_Project_Page.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
-
 ![M3 Network Graph](manoastudentkitchen.github.io/images/m3/M3_Network_Graph.png)
-![M3 Network Graph](manoastudentkitchen.github.io/images/m3/M3_Project_Page.png)
+
 
