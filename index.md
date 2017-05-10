@@ -170,8 +170,6 @@ The goals for Milestone 3 were to connect the front-end of the app to the back-e
 
 M3 was implemented as the [MSK Milestone 3](https://github.com/manoastudentkitchen/manoastudentkitchen/milestone/3?closed=1):
 
-![M3](https://github.com/manoastudentkitchen/manoastudentkitchen.github.io/blob/master/images/M3.png?raw=true)
-
 Milestone 3 consisted of fifteen issues, and progress was managed via the [MSK GitHub Project M3](https://github.com/manoastudentkitchen/manoastudentkitchen/projects/3):
 ![M3 Project Page](manoastudentkitchen.github.io/images/m3/M3_Project_Page.png)
 
