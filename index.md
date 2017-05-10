@@ -45,6 +45,11 @@ The admin page allows admins easy access to useful functions, as well as the ent
 
 Inspired by [Steam tags](http://store.steampowered.com/tag/), we forewent the traditional categorization system and instead, implemented a system that allows users to define their own tags and upvote tags made by others. This allows for much more flexible and dynamic labelling for each recipe. 
 
+# Initial User Study
+Users were asked to test out the application and fill in a google survey with their impressions of the app. The survey can be found [here](https://docs.google.com/a/hawaii.edu/forms/d/e/1FAIpQLSdcpuvIx5TKOppaZzYMD1fvZa9N7vGinH01oyP7V2GIjKyA2A/viewform).
+Overall the response to the app was positive. One user, a senior English major liked how it was easy to submit and edit recipes. Another, a Junior ACM major, liked the tag feature, but also wished there was more inter-user interaction in the form of favorites and bookmarks. 
+
+
 # Developer Guide
 ## How to Install
 First clone the repository from [Github](https://github.com/manoastudentkitchen/manoastudentkitchen). Then cd into the app directory and type:
